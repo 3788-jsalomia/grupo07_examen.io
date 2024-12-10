@@ -1,0 +1,16 @@
+.body{
+    background-color: rgb(255, 0, 0);
+}
+
+#content{
+    margin-top: 15px;
+    border-color: blue;
+    border-style:inset;
+    border-radius: 20px;
+    width: 100%;
+}
+
+#borrar{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
